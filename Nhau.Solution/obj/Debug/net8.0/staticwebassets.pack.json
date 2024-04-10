@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Nhau.Solution.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nhau.Solution.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\event-birthday.jpg",
+      "PackagePath": "staticwebassets\\img\\event-birthday.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\event-custom.jpg",
+      "PackagePath": "staticwebassets\\img\\event-custom.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\event-private.jpg",
+      "PackagePath": "staticwebassets\\img\\event-private.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\events-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\events-bg.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\bread-barrel.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\bread-barrel.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\caesar.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\caesar.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\cake.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\cake.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\greek-salad.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\greek-salad.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\lobster-bisque.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\lobster-bisque.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\lobster-roll.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\lobster-roll.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\mozzarella.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\mozzarella.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\spinach-salad.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\spinach-salad.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\menu\\tuscan-grilled.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\tuscan-grilled.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\specials-1.png",
+      "PackagePath": "staticwebassets\\img\\specials-1.png"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\specials-2.png",
+      "PackagePath": "staticwebassets\\img\\specials-2.png"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\specials-3.png",
+      "PackagePath": "staticwebassets\\img\\specials-3.png"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\specials-4.png",
+      "PackagePath": "staticwebassets\\img\\specials-4.png"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\specials-5.png",
+      "PackagePath": "staticwebassets\\img\\specials-5.png"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap-icons\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\index.html"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\_Projects\\Nhau.Solutions\\Nhau.Solution\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nhau.Solution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nhau.Solution.props",
+      "PackagePath": "build\\Nhau.Solution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nhau.Solution.props",
+      "PackagePath": "buildMultiTargeting\\Nhau.Solution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nhau.Solution.props",
+      "PackagePath": "buildTransitive\\Nhau.Solution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
